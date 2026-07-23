@@ -2,7 +2,7 @@
 
 Predicts how much engagement (score) a Hacker News post is likely to get, based on its title and posting details — and explains *why*, using SHAP feature importance.
 
-🔗 **Live app:** [ADD YOUR STREAMLIT URL HERE, e.g. https://your-app-name.streamlit.app]
+🔗 **Live app:** [(https://hacker-news-post-engagement-project-lokeshsharma.streamlit.app)]
 
 ---
 
